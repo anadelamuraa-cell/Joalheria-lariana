@@ -1,0 +1,6 @@
+{
+  "name": "L'Étoile Atelier de Joalheria",
+  "description": "Atelier exclusivo de design de alta joalheria sob medida integrado ao Supabase para gerenciamento de pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
